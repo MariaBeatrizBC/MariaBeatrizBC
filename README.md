@@ -54,7 +54,7 @@
    <div align="center" style="display: inline_block">
      <h2 align="center">Sobre mim:</h2>
      <img height="150em" src="https://cdn.picrew.me/shareImg/org/202403/1706331_xMrqNI6b.png">
-     <p align="justify" text_indent="1em">Me chamo Maria Beatriz Batista Castro, tenho 19 anos e sou de São Paulo. No momento, estou cursando o 5°Semestre de Análise e desenvolvimento de sistemas e estou em busca de experiência na área de desenvolvimento. No meu portfólio, você encontrará certificações de cursos e projetos já desenvolvidos.<br/>Sou uma pessoa conhecida por ser calma, determinada, organizada e sincera. Gosto de ler livros, ouvir músicas, assistir séries, programar e viajar no meu tempo livre.</p>
+     <p align="justify" text_indent="1em">Me chamo Maria Beatriz Batista Castro, tenho 19 anos e sou de Carapicuíba - São Paulo. No momento, estou cursando o 5°Semestre de Análise e desenvolvimento de sistemas e estou em busca de experiência na área de desenvolvimento. No meu portfólio, você encontrará certificações de cursos e projetos já desenvolvidos.<br/>Sou uma pessoa conhecida por ser calma, determinada, organizada e sincera. Gosto de ler livros, ouvir músicas, assistir séries, programar e viajar no meu tempo livre.</p>
      <br/>
    </div>
 
