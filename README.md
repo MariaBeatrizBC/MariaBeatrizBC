@@ -59,8 +59,8 @@
    </div>
 
    <div align="center">
-     <h2>Portfólio:</h2>
-     <a href="https://mariabeatrizbc.github.io/Portfolio/" target="_blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+     <!--<h2>Portfólio:</h2>
+     <a href="https://mariabeatrizbc.github.io/Portfolio/" target="_blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>-->
      <br/>
      <br/>
    </div>
