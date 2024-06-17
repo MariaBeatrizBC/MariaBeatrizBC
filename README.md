@@ -14,18 +14,11 @@
 
   <h2 align="center">Linguagens:</h2>
   <div align="center" style="display: inline_block">
-    <a href="https://github.com/mariabeatrizbc/github-readme-stats">
-      <img align="center" height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-    </a>
-    <a href="https://github.com/mariabeatrizbc/github-readme-stats">
-    <img align="center" height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-    </a>
-    <a href="https://github.com/mariabeatrizbc/github-readme-stats">
-      <img align="center" height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-    </a>
-    <a href="https://github.com/mariabeatrizbc/github-readme-stats">
-      <img align="center" height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />     
-    </a>
+      <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+      <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+      <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+      <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />     
     <br />
     <br />
   </div>
@@ -34,7 +27,7 @@
   <div align="center" style="display: inline_block">
     <a href="https://www.linkedin.com/in/maria-beatriz-batista-castro-084829243/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"          target="_blank"></img>  </a>
     <a href="https://www.instagram.com/mariabiasz/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></img></a>
-    <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJNqLRsNJSqGJZLTnbzLxwwXVFsZkxllFWjnpmShwkXNLShcGkNJlpkmCvbwBSvgpZkCGBq" target="_blank"><img src="https://img.shields.io/badge/Gmail-  D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></img></a>
+    <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJNqLRsNJSqGJZLTnbzLxwwXVFsZkxllFWjnpmShwkXNLShcGkNJlpkmCvbwBSvgpZkCGBq" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></img></a>
     <a href="https://wa.me/5511984165708" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></img></a>
     <br />
     <br />
