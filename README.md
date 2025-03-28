@@ -47,7 +47,7 @@
    
    <div align="center" style="display: inline_block">
      <h2 align="center">Sobre mim:</h2>
-     <p align="center" text_indent="1em">Me chamo Maria Beatriz Batista Castro, tenho 20 anos e sou de Carapicuíba - São Paulo. Estou no 6º semestre do curso superior de Análise e desenvolvimento de sistemas e estou em busca de experiência na área de desenvolvimento. Aqui no meu perfil você encontrará alguns repositórios de projetos desenvolvidos ao longo dos meus estudos com as linguagens e as ferramentas informadas acima.</p>
+     <p align="center" text_indent="1em">Me chamo Maria Beatriz Batista Castro, tenho 20 anos e sou de Carapicuíba - São Paulo. Estou no sétimo e último semestre do curso superior de Análise e desenvolvimento de sistemas e estou em busca de experiência na área de desenvolvimento. Aqui no meu perfil você encontrará alguns repositórios de projetos desenvolvidos ao longo dos meus estudos com as linguagens e as ferramentas informadas acima.</p>
      <br/>
    </div>
 
